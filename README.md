@@ -6,6 +6,8 @@
   - [Praciting DS & Algos in Python](https://github.com/ubl2/Algorithms-Practice)
 - <b>Parallel Dijkstra’s Algorithm(GCP, C++, MPI Library)</b>
   - [Flighting Agenda](https://github.com/ubl2/Parallel-Dijkstra-s-Algorithm)
+- <b>Airport Management system(Django, Vue, REST, Python, Javascript, SQLite)</b>
+  - [Airport Management system](https://github.com/ubl2/Airport-Management-System)
 
 <h2>Machine Learning/Neural Network Projects</h2>
 
