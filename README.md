@@ -5,7 +5,7 @@
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/ubl2/Algorithms-Practice)
 - <b>Parallel Dijkstra’s Algorithm(GCP, C++, MPI Library)</b>
-  - [Image Analysis Middleware](https://github.com/ubl2/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Flighting Agenda](https://github.com/ubl2/Parallel-Dijkstra-s-Algorithm)
 
 <h2>Machine Learning/Neural Network Projects</h2>
 
