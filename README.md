@@ -9,10 +9,12 @@
 - <b>Airport Management system(Django, Vue, REST, Python, Javascript, SQLite)</b>
   - [Airport Management system](https://github.com/ubl2/Airport-Management-System)
 
+
+
 <h2>Machine Learning/Neural Network Projects</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/ubl2/Algorithms-Practice)
+- <b>Used Car Price Prediction(Jupyter, Python)</b>
+  - [Used Car Price Prediction](https://github.com/ubl2/Used-Car-Price-Prediction)
 - <b>Parallel Dijkstra’s Algorithm(GCP, C++, MPI Library)</b>
   - [Image Analysis Middleware](https://github.com/ubl2/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
   
